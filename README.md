@@ -1,0 +1,2 @@
+- 👋 Selam Ben @Akardiyan
+- 👀 JavaScript e ilgiliyim 

@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akardiyan" alt="Akardiyan" /> </p>
 <h1 align="center" style="color:#fff">
-  AmouMartin
+  :wawe: Ben Akardiyan 
 </h1>
 <hr> 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Akardiyan&theme=tokyonight&show_icons=true" />
 <h3 align="left">
-I am who ?
+Ben Kimim
 </h3>
 <p>Selam Ben Akardiyan Genç Bir JavaScript Meraklısıym Projelerimi Profilimde Bulabilirsiniz</p>
 <h1 align="center" style="color:#fff">
@@ -22,7 +22,7 @@ Sosyal Medya Hesaplarım
  <a href="https://www.twitch.tv/akardiyan" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
 
 
-  [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=0kv9pxy5jg88pvr0277rv1j98&redirect=true" alt="Akardiyan Spotify Playing" width="350" />](https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98)
+  [<img src="https://spotify-github-profile.vercel.app/api/view?uid=0kv9pxy5jg88pvr0277rv1j98&cover_image=true&theme=default" alt="Akardiyan Spotify Playing" width="350" />](https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98)
 
   <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-2/733628096405831710.png"></div>

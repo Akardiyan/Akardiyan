@@ -13,16 +13,6 @@ Sosyal Medya Hesaplarım
 </h4>
 <hr>
 <span>
-<p align="center">
-   <a href="https://discord.com/users/733628096405831710" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://steamcommunity.com/id/xhafox" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/Akardiyan" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.twitch.tv/akardiyan" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
-
-
-  [<img src="https://spotify-github-profile.vercel.app/api/view?uid=0kv9pxy5jg88pvr0277rv1j98&cover_image=true&theme=default" alt="Akardiyan Spotify Playing" width="350" />](https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98)
-  
     <details align="center">
   <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -39,6 +29,17 @@ Sosyal Medya Hesaplarım
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 </details>
+  
+<p align="center">
+   <a href="https://discord.com/users/733628096405831710" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://steamcommunity.com/id/xhafox" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://github.com/Akardiyan" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.twitch.tv/akardiyan" target"blank_"><img src="https://img.shields.io/badge/twitch%20-e3d3e0.svg?&style=for-the-badge&logo=twitch&logoColor=853476"></a>
+
+
+  [<img src="https://spotify-github-profile.vercel.app/api/view?uid=0kv9pxy5jg88pvr0277rv1j98&cover_image=true&theme=default" alt="Akardiyan Spotify Playing" width="350" />](https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98)
+ 
 
   <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-2/733628096405831710.png"></div>

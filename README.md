@@ -22,20 +22,8 @@ Sosyal Medya Hesaplarım
 
 
   [<img src="https://spotify-github-profile.vercel.app/api/view?uid=0kv9pxy5jg88pvr0277rv1j98&cover_image=true&theme=default" alt="Akardiyan Spotify Playing" width="350" />](https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98)
-
-  <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/733628096405831710.png"></div>
   
-
-
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikleri İçin Tıkla</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Akardiyan&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akardiyan&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=Akardiyan&theme=nord" width="%100" height="150px" alt="stats" />
-</details>
-  
-  <details align="center">
+    <details align="center">
   <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -50,4 +38,16 @@ Sosyal Medya Hesaplarım
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+</details>
+
+  <p align="center">
+  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/733628096405831710.png"></div>
+  
+
+
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikleri İçin Tıkla</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=Akardiyan&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akardiyan&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Akardiyan&theme=nord" width="%100" height="150px" alt="stats" />
 </details>

@@ -7,7 +7,8 @@ Ben Akardiyan
 <h3 align="left">
 Ben Kimim
 </h3>
-<p>Selam Ben Akardiyan Genç Bir JavaScript Meraklısıym Projelerimi Profilimde Bulabilirsiniz</p>
+<p>Selam Ben Akardiyan</p>
+<p>Genç Bir Teknoloji Meraklısıyım Daha Fazlasını Profilimde Bulabilirsin</p>
 <h1 align="center" style="color:#fff">
 Sosyal Medya Hesaplarım
 </h4>

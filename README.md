@@ -29,6 +29,9 @@ Sosyal Medya Hesaplarım
 <p align="center">
 <div align="center"><img src="https://discord.c99.nl/widget/theme-2/733628096405831710.png"></div>
   
+<p align="center">
+<div align="center"><img src="https://discord.c99.nl/widget/theme-3/667766442820894740.png"></div>
+  
 
 
 <details align="center">

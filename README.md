@@ -9,7 +9,7 @@ Ben Kimim
 </h3>
 <p>Selam Ben Akardiyan</p>
 <p>Genç Bir Teknoloji Meraklısıyım Daha Fazlasını Profilimde Bulabilirsin</p>
-<p>NOT:Profilimdeki Altyapıları Sürekli Güncelliyorum</p>
+<p>NOT: Profilimdeki Altyapıları Sürekli Güncelliyorum</p>
 <h1 align="center" style="color:#fff">
 Sosyal Medya Hesaplarım
 </h4>

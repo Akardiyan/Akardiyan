@@ -56,3 +56,10 @@ Sosyal Medya Hesaplarım
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"</code>
 </details>
+  
+<p>Sevdiğim Bazı Sanatçılar</p>
+  
+<h3 align="left">Anne Marie</h3>
+<p align="left">
+<img src="https://cdn.discordapp.com/attachments/847215616138149929/855534852035051530/annemarie.gif" width="%100" height="150px" alt="stats" />
+</p>

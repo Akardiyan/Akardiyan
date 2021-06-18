@@ -57,7 +57,7 @@ Sosyal Medya Hesaplarım
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"</code>
 </details>
 
-  <p Sevdiğim Bazı Sanatçılar>
+  <p>Sevdiğim Bazı Sanatçılar</p>
   
 <h3 align="left">Anne Marie</h3>
 <p align="left">
@@ -73,7 +73,7 @@ Sosyal Medya Hesaplarım
   
   <h3 align="left">Zara Larsson</h3>
 <p align="left">
-<img src="https://cdn.discordapp.com/attachments/847215616138149929/855537956449026078/zaralarsson.gif" width="%100" height="150px" alt="stats" />
+<img src="https://cdn.discordapp.com/attachments/847215616138149929/855538837602041856/zaralarsson.gif" width="%100" height="150px" alt="stats" />
   
   <h3 align="left">Khontkar</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 <hr> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Akardiyan&repo=Akardiyan&show_owner=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Akardiyan&repo=Akardiyan&show_owner=true&text_color=9f9f9f&bg_color=151515" />
 <h3 align="left">
 Ben Kimim
 </h3>

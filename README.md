@@ -3,7 +3,7 @@
 Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 <hr> 
-<h3 align="left">
+<h3 align="center">
 Ben Kimim
 </h3>
 <p>Selam Ben Akardiyan</p>

@@ -3,13 +3,13 @@
 Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 <hr> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Akardiyan&theme=tokyonight&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Akardiyan&repo=Akardiyan&show_owner=true" />
 <h3 align="left">
 Ben Kimim
 </h3>
 <p align="left">Selam Ben Akardiyan</p>
 
-- 1.5 Yıldır JavScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim
+- 1.5 Yıldır JavaScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim
 
 - Ücretsiz Hizmet Veren [Power Of Code](www.powerofcode.tk) Topluluğuna Katılmaya Ne Dersin ?
 <h1 align="center" style="color:#fff">

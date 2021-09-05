@@ -8,10 +8,12 @@ Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/i
 Ben Kimim
 </h3>
 <p>Selam Ben Akardiyan</p>
+
 - 1.5 Yıldır JavScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim
 
 - Ücretsiz Hizmet Veren [Power Of Code](www.powerofcode.tk) Topluluğuna Katılmaya Ne Dersin ?
-<h1 align="center" style="color:#fff">
+- 
+<h4 align="center" style="color:#fff">
 Sosyal Medya Hesaplarım
 </h4>
 <hr>

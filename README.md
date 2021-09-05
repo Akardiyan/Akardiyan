@@ -28,7 +28,8 @@ Sosyal Medya Hesaplarım
  
 
 <p align="center">
-<div align="center"><img src="https://discord.c99.nl/widget/theme-2/733628096405831710.png"></div>
+<div align="center">[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/733628096405831710
+                            )](https://discord.com/users/733628096405831710)</div>
   
 
 

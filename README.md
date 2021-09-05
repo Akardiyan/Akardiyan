@@ -37,5 +37,5 @@ Sosyal Medya Hesaplarım
 <summary style="font-weight: bold; font-size: 18px">GitHub İstatistikleri İçin Tıkla</summary>
 <img src="https://github-readme-stats.vercel.app/api/?username=Akardiyan&show_icons=true&title_color=fff&icon_color=EC1010&text_color=9f9f9f&bg_color=151515" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akardiyan&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" width="%100" height="150px" alt="stats" />
-</details
+  </details>
  

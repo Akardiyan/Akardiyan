@@ -6,7 +6,7 @@ Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/i
 <h3 align="center">
 Ben Kimim
 </h3>
-<p>Selam Ben Akardiyan</p>
+<p align="center">Selam Ben Akardiyan</p>
 
 - 1.5 Yıldır JavScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim
 

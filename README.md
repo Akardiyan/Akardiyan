@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akardiyan" alt="Akardiyan" /> </p>
 <h1 align="center" style="color:#fff">
-Ben Akardiyan 
+Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 <hr> 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Akardiyan&theme=tokyonight&show_icons=true" />

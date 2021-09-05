@@ -8,10 +8,9 @@ Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/i
 Ben Kimim
 </h3>
 <p>Selam Ben Akardiyan</p>
-- Kendimden kısaca bahsedeyim. Ben utku namı değer [UtkuJS](https://github.com/UtkuJS) 17 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
-1.5 yıla yakındır yazılım ile ilgileniyorum. [Bot Club](botclub.net) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
+<p>1.5 Yıldır JavScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim</p>
 
-- Yoksa hâlâ Bot Club ekibinin geliştirmekte olduğu [Bot Club](botclub.net)'e göz atmadın mı ?
+<p>Ücretsiz Hizmet Veren [Power Of Code](https://www.powerofcode.tk) Topluluğuna Katılmaya Ne Dersin ?</p>
 <h1 align="center" style="color:#fff">
 Sosyal Medya Hesaplarım
 </h4>

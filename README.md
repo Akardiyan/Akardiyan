@@ -27,7 +27,7 @@ Sosyal Medya Hesaplarım
  [<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=0kv9pxy5jg88pvr0277rv1j98&cover_image=true&theme=default" alt="Akardiyan Spotify Playing" width="350" /></div>](https://open.spotify.com/user/0kv9pxy5jg88pvr0277rv1j98)
  
 
-[![Akardiyan](https://lanyard-profile-readme.vercel.app/api/733628096405831710)](https://discord.com/users/733628096405831710)
+[<div align="center">![Akardiyan](https://lanyard-profile-readme.vercel.app/api/733628096405831710)</div>](https://discord.com/users/733628096405831710)
   
 
 

@@ -3,10 +3,11 @@
 Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 <hr> 
-<h3 align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Akardiyan&theme=tokyonight&show_icons=true" />
+<h3 align="left">
 Ben Kimim
 </h3>
-<p align="center">Selam Ben Akardiyan</p>
+<p align="left">Selam Ben Akardiyan</p>
 
 - 1.5 Yıldır JavScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim
 

@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akardiyan" alt="Akardiyan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akardiyan&label=Profile%20Bakanlar&color=050505" alt="Akardiyan" /> </p>
 <h1 align="center" style="color:#fff">
 Selam Ben Akardiyan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>

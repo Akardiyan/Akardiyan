@@ -10,7 +10,7 @@ Ben Kimim
 <p>Selam Ben Akardiyan</p>
 <p>1.5 Yıldır JavScript İle İlgileniyorum Bunun Yanında CSS Ve HTML İle De İlgilenmekteyim</p>
 
-<p>Ücretsiz Hizmet Veren [![Power Of Code](www.powerofcode.tk)] Topluluğuna Katılmaya Ne Dersin ?</p>
+<p>- Ücretsiz Hizmet Veren [Power Of Code](www.powerofcode.tk) Topluluğuna Katılmaya Ne Dersin ?</p>
 <h1 align="center" style="color:#fff">
 Sosyal Medya Hesaplarım
 </h4>
